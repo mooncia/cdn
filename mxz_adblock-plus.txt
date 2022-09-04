@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: My AdFilters
+! Title: MXZ超级过滤规则
 ! Version: 202208230839
 ! Last Modified: 2022年08月23日 08:39
 ! Expires: 1 day
