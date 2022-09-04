@@ -3,7 +3,6 @@ bilibili.com##.first-paint
 bilibili.com##.feed-floor-list
 bilibili.com##.primary-btn.roll-btn
 bilibili.com##.bili-header__channel
-#B站搜索bilibili.com##.search-panel
 bilibili.com##.nav-search-input
 bilibili.com##.default-entry
 bilibili.com##.rec-list
@@ -15,7 +14,6 @@ quote.eastmoney.com##.footertg
 quote.eastmoney.com##.category.red
 quote.eastmoney.com##.hqb_sjzx
 quote.eastmoney.com##.guba_title_r
-||gubawebapi2.eastmoney.com/page/fund_editor2/dest/editor.html?s=zshkhstech&width=788&logincb=http%3A%2F%2Fquote.eastmoney.com%2Fgb%2FzsHSTECH.html
 quote.eastmoney.com##.groupbar
 bt1207fo.xyz##.thumbnail.hidden-xs.hidden-sm
 192.168.5.1###option4
@@ -37,9 +35,8 @@ so.com###head_rs_top
 wuzhuiso.com###hotnewsRightTag
 wuzhuiso.com##.js-mh-tag-slider
 wuzhuiso.com##.footer-slogan
-||s1.hdslb.com/bfs/static/jinkela/video/asserts/topic-icon.svg
 live.bilibili.com###chat-history-list
 live.bilibili.com##.chat-history-list.h-100.p-relative.border-box.ps.ps--theme_default.ps--active-y.with-brush-prompt
 fanyi.youdao.com##.fanyi__nav__list
-||shared.ydstatic.com/fanyi/fanyi-ad-place/*
+shared.ydstatic.com/fanyi/fanyi-ad-place/*
 bilibili.com##.manuscript-report
