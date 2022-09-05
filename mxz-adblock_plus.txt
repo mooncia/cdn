@@ -1,11 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: MXZ超级过滤规则
-! Version: 202208230839
-! Last Modified: 2022年08月23日 08:39
+! Version: 20220801
+! Last Modified: 2022年08月1日
 ! Expires: 1 day
 ! Homepage: https://adf.minggo.eu.org
-! 本规则合并自MXZ+乘风视频广告过滤规则
-! 并补充了贴吧过滤规则，感谢各位前辈的分享！
+! 本规则合并自MXZ+视频广告过滤规则
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 ! Start
 
@@ -22,9 +21,16 @@ bilibili.com##.rec-list
 bilibili.com##.manuscript-report
 bilibili.com##.item.issue
 
+!哔哩哔哩视频页面评论
+bilibili.com##.svg-icon.level-6.sub-user-level
+bilibili.com##.svg-icon.level-6.user-level
+bilibili.com##.svg-icon.level-hardcore.sub-user-level.hardcore
+bilibili.com##.svg-icon.level-hardcore.user-level.hardcore
+
 !哔哩哔哩搜索框
 bilibili.com##.trendings-double
 www.bilibili.com##.search-panel
+search.bilibili.com##.header
 
 !哔哩哔哩直播
 live.bilibili.com##.grid-area-ctnr.t-center
@@ -36,6 +42,10 @@ live.bilibili.com##.list-item.p-relative
 live.bilibili.com##.room-feed
 live.bilibili.com###chat-history-list
 live.bilibili.com##.chat-history-list.h-100.p-relative.border-box.ps.ps--theme_default
+
+!在线翻译
+||shared.ydstatic.com/fanyi/fanyi-ad-place/online/*
+fanyi.youdao.com##.fanyi__nav__list
 
 !搜索引擎
 so.com###mohe-hotnews_right
@@ -61,8 +71,23 @@ wuzhuiso.com##.g-header-qs-bar
 wuzhuiso.com###mohe-hotnews_right
 wuzhuiso.com##.g-mohe
 
+!知乎
+zhihu.com##.AppBanner-layout
+zhihu.com##.css-1izy64v
+static.zhihu.com/heifetz/main.signflow.*.js
+static.zhihu.com/heifetz/*.signflow.*.css
 
-
+!在线测速
+speedtest.cn##.site-bottom
+speedtest.cn##.content
+speedtest.cn##.basic-sus
+speedtest.cn##.network-module
+speedtest.cn##.speed-app-list
+speedtest.cn##.wg
+speedtest.cn##.more
+speedtest.cn##.insight-wrap
+speedtest.cn##.site-nav
+speedtest.cn##.navbar-nav.ml-auto.navbar-nav-speedtest
 
 
 
