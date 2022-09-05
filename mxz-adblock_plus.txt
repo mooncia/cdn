@@ -24,7 +24,7 @@ bilibili.com##.item.issue
 
 !哔哩哔哩搜索框
 bilibili.com##.trendings-double
-bilibili.com##.search-panel
+www.bilibili.com##.search-panel
 
 !哔哩哔哩直播
 live.bilibili.com##.grid-area-ctnr.t-center
