@@ -2,7 +2,7 @@
 ! Title: MXZ超级过滤规则
 ! Version: 20220801
 ! Last Modified: 2022年08月1日
-! Expires: 1 day
+! Expires: 30 day
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自MXZ+视频广告过滤规则
 !This project is free, open source, and licensed under GPLv3. See LICENSE for details.
