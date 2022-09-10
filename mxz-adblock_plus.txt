@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: MXZ超级过滤规则
+! Title: Moon过滤规则
 ! Version: 20220801
 ! Last Modified: 2022年08月1日
 ! Expires: 30 day
@@ -8,31 +8,51 @@
 !This project is free, open source, and licensed under GPLv3. See LICENSE for details.
 ! Start
 
+!下载站
+onlinedown.net###qrcode-mask-popup
 
-!哔哩哔哩首页
+!2345
+tools.2345.com##.bd
+tools.2345.com##.icon.icon-side-ft
+
+!CSDN
+blog.csdn.net##.toolbar-menus.csdn-toolbar-fl
+blog.csdn.net##.aside-content
+blog.csdn.net##.aside-title
+blog.csdn.net##.flexible-btn
+
+!baidupan
+pan.baidu.com##.wp-s-aside-nav__main-bottom
+pan.baidu.com###web-header-text-s-28
+pan.baidu.com##.web-header-ad-item.wp-s-header__right-item
+pan.baidu.com##.wp-s-header-cert__ee-cert-tilte.u-popover__reference.focusing
+pan.baidu.com##.u-button.u-svip-button.wp-s-header__vip-btn-wrapper.u-button--default.u-button--mini.is-round.u-svip-button--main.u-svip-button--mini
+
+!bilibili首页
 bilibili.com##.bili-feed4-layout
 bilibili.com##.bili-header__channel
 bilibili.com##.header-channel-fixed
 bilibili.com##.download-entry.download-client-trigger
 bilibili.com##.default-entry
+bilibili.com##.bili-layout
 
-!哔哩哔哩视频页面
+!bilibili视频页面
 bilibili.com##.rec-list
 bilibili.com##.manuscript-report
 bilibili.com##.item.issue
 
-!哔哩哔哩视频页面评论
+!bilibili视频页面评论
 bilibili.com##.svg-icon.level-6.sub-user-level
 bilibili.com##.svg-icon.level-6.user-level
 bilibili.com##.svg-icon.level-hardcore.sub-user-level.hardcore
 bilibili.com##.svg-icon.level-hardcore.user-level.hardcore
 
-!哔哩哔哩搜索框
+!bilibili搜索框
 bilibili.com##.trendings-double
 www.bilibili.com##.search-panel
 search.bilibili.com##.header
 
-!哔哩哔哩直播
+!bilibili直播
 live.bilibili.com##.grid-area-ctnr.t-center
 live.bilibili.com##.area-detail-ctnr.m-auto
 live.bilibili.com##.recommend-area-ctnr
@@ -47,7 +67,7 @@ live.bilibili.com##.chat-history-list.h-100.p-relative.border-box.ps.ps--theme_d
 ||shared.ydstatic.com/fanyi/fanyi-ad-place/online/*
 fanyi.youdao.com##.fanyi__nav__list
 
-!搜索引擎
+!Search engine
 so.com###mohe-hotnews_right
 so.com##.g-mohe
 so.com###head_pdr_guide
@@ -70,8 +90,11 @@ wuzhuiso.com###qsBar
 wuzhuiso.com##.g-header-qs-bar
 wuzhuiso.com###mohe-hotnews_right
 wuzhuiso.com##.g-mohe
+baike.so.com###entry_newsfeed
+baike.so.com##.entry-newsfeed
+so.com###res_news_flow
 
-!知乎
+!zhihu
 zhihu.com##.AppBanner-layout
 zhihu.com##.css-1izy64v
 static.zhihu.com/heifetz/main.signflow.*.js
@@ -88,8 +111,6 @@ speedtest.cn##.more
 speedtest.cn##.insight-wrap
 speedtest.cn##.site-nav
 speedtest.cn##.navbar-nav.ml-auto.navbar-nav-speedtest
-
-
 
 !-----------------------------------------------------------------------------
 
