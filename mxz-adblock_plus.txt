@@ -21,6 +21,19 @@ blog.csdn.net##.aside-content
 blog.csdn.net##.aside-title
 blog.csdn.net##.flexible-btn
 
+!wenku
+wenku.baidu.com##.vip-privilege.vip-privilege-card-wrap.new-privilege-wrap
+wenku.baidu.com##.vip-activity-content
+wenku.baidu.com##.tool-bar-wrap
+wenku.baidu.com##.top-list-wrap
+wenku.baidu.com##.p-c-footer-contact-us_3909c
+wenku.baidu.com##.catalog-main
+wenku.baidu.com##.client-download-content
+wenku.baidu.com##.try-end-fold-page.has-cashier-card
+wenku.baidu.com##.page-icon-pos.pos
+wenku.so.com##.side-mod
+wenku.so.com##.infoFlow
+
 !baidupan
 pan.baidu.com##.wp-s-aside-nav__main-bottom
 pan.baidu.com###web-header-text-s-28
@@ -40,6 +53,8 @@ bilibili.com##.bili-layout
 bilibili.com##.rec-list
 bilibili.com##.manuscript-report
 bilibili.com##.item.issue
+
+bilibili.com##.nav-link-ul.mini
 
 !bilibili视频页面评论
 bilibili.com##.svg-icon.level-6.sub-user-level
@@ -112,6 +127,9 @@ speedtest.cn##.insight-wrap
 speedtest.cn##.site-nav
 speedtest.cn##.navbar-nav.ml-auto.navbar-nav-speedtest
 
+!其他(小站点)
+mac.bmcx.com##.kuang.pmk_990_show.pmk_1040_show
+mac.bmcx.com##.tl
 !-----------------------------------------------------------------------------
 
 !视频过滤规则
@@ -264,11 +282,11 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 91p20.space
 waust.at
 
-||btsow.bar/app/jav$image
+||btsow.click/app/jav$image
 jads.co
 |https://tellme.pw/go/jav$popup
-|https://$script,subdocument,popup,3p,domain=btsow.bar|dandanzan10.top|nunuyy2.org|rarbgprx.org
-!btsow.bar##+js(aeld, click, popunder)
+|https://$script,subdocument,popup,3p,domain=btsow.click|dandanzan10.top|nunuyy2.org|rarbgprx.org
+!btsow.click##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
 ! 2022 https://rarbgprx.org
 statsy.net
@@ -317,5 +335,4 @@ youle55.com
 ||nooen.com^$popup
 bixinlive.com
 quandangdang.net
-
 !-----------------------------------------------------------------------------
